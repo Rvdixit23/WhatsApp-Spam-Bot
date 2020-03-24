@@ -1,7 +1,7 @@
 # Whatsapp Web Spam Bot
 
 ## Installation  
-### **NOTE** : Python3 and pip is required
+### **NOTE** : Python3 and pip are required
     # Clone the repository
     git clone https://github.com/Rvdixit23/WhatsApp-Spam-Bot.git
 
